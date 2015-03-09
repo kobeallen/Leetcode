@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     void DFS(vector<vector<int> > next, int id, string s, string result, vector<string> &ans)
